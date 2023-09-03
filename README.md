@@ -31,7 +31,7 @@ To develop an environment consisting of a mobile tower as the start and the hous
 * +1 - If the goal is reached
 * 0 - Otherwise
 
-## Graphical Representation
+## GRAPHICAL REPRESENTATION:
 ![WhatsApp Image 2023-09-03 at 19 53 05](https://github.com/Aashima02/mdp-representation/assets/93427086/f9975da2-4262-4564-a57e-0402007880f6)
 
 
