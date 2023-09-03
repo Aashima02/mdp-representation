@@ -1,24 +1,28 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+To represent a Markov Decision Process(MDP) problem in the following ways.
+
+1. Text representation
+2. Graphical representation
+3. Python - Dictonary representation
 
 ## PROBLEM STATEMENT:
 
 ### Problem Description
-Write your answer here
+To develop an environment consisting of a mobile tower as the start and the house as the goal. The aim is to make sure the network signals reaches the house.
 
 ### State Space
-Write your answer here
+{0,1,2,3,4,5,6,7}
 
 ### Sample State
-Write your answer here
+4
 
 ### Action Space
 Write your answer here
 
 ### Sample Action
-Write your answer here
+* {0) Moving Up
 
 ### Reward Function
 Write your answer here
