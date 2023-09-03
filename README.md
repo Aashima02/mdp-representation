@@ -19,10 +19,10 @@ To develop an environment consisting of a mobile tower as the start and the hous
 4
 
 ### Action Space
-Write your answer here
+* {0) Moving Up
 
 ### Sample Action
-* {0) Moving Up
+
 
 ### Reward Function
 Write your answer here
